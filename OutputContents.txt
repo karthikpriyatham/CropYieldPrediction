@@ -1,0 +1,400 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;New Test Size;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Test Size Used is :  0.33
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  MinMaxScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.002765312262803854]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8348432069569504]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7706238628651116]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8538068467294393]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  48
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  50
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.002925956891930759]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8647994115452792]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7061286919623528]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8254414925974765]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  45
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  48
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  StandardScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.00298605921154782]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8783288207246852]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7263758342618128]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8664972123800004]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  44
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  47
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0026893727055660177]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.7365857964931601]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7259533150504929]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8867560065211195]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  44
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  51
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;New Test Size;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Test Size Used is :  0.3
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  MinMaxScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.002210093892473397]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8594661563451869]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7460576917281492]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9245209545282562]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  46
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  50
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0030230371062792694]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.7862028985867715]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7620558041402617]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8517297452851955]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  45
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  48
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  StandardScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.003444431805687098]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8859750480177129]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.8140798536101682]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9417281247829604]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  43
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  47
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0030019579408344654]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.7453653800315228]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.718673205417819]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8201873475171673]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  43
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  48
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;New Test Size;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Test Size Used is :  0.25
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  MinMaxScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.002967662300066287]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.949169053225574]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.8553761792780665]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9571155290637341]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  47
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  49
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0032945186493706924]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8691424407249785]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7853843929539432]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9223871447309319]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  45
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  47
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  StandardScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.003090186574033038]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.9164908004848402]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7184427440000593]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9046750082451457]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  44
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  49
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0031390002076316925]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.9423963528957536]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.8245451716197768]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9424065546602571]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  49
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  49
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;New Test Size;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Test Size Used is :  0.2
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  MinMaxScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0032801938052465784]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.8597740594574927]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7770579734204976]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.8888264341049283]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  45
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  51
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.003347941046723646]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.9164516425870938]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7414073749412167]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9077614570419079]
+
+
+Default Decision Tree Depth with Scaler and setting  MinMaxScaler()  is  44
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  MinMaxScaler()  is  49
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+
+
+Scaler Used is  StandardScaler()
+____________________________________________________________________________________________________
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.00225296422036525]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.9377984645555255]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.7086259898711245]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.9156115253496023]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  44
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  50
+____________________________________________________________________________________________________
+____________________________________________________________________________________________________
+Using Scaling for Labels as well
+
+c:\users\tkarthik\project\maliciouspdf\lib\site-packages\sklearn\utils\validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+<ipython-input-8-93954461c66b>:34: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  fit=model.fit(X_trainScaled, y_trainScaled)
+Models Trained With Scores are as follows:
+
+[LinearRegression(), 'LinearRegression', 0.0008062904720144148]
+[DecisionTreeRegressor(), 'DecisionTreeRegressor', 0.6091100210646634]
+[GradientBoostingRegressor(n_estimators=200, random_state=0), 'GradientBoostingRegressor', 0.6563115231381023]
+[RandomForestRegressor(n_estimators=200, random_state=0), 'RandomForestRegressor', 0.6976692781078938]
+
+
+Default Decision Tree Depth with Scaler and setting  StandardScaler()  is  46
+
+
+Default GradientBoostingRegressor Tree Depth with Scaler and setting  StandardScaler()  is  3
+
+
+Default RandomForestRegressor Tree Depth with Scaler and setting  StandardScaler()  is  51
+____________________________________________________________________________________________________
+#######################################################################################################
+#######################################################################################################
